@@ -1,2 +1,3 @@
-# tftrt-examples
-Practical examples and workflows for Tensorflow-TensorRT
+# Practical examples and workflows for Tensorflow-TensorRT
+
+This repository contain several practical examples, tutorials and workflows for Tensorflow-TensorRT.
